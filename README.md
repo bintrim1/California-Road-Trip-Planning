@@ -1,5 +1,5 @@
 # California Road Trip Planner
-This project aims to help users plan a road trip through California by providing information on optimal routes, nearby attractions, places to eat, and more. It was a collaborative effort between two software engineers and two data scientists. (I was one of the data scientists; the first notebook is mostly my work, whereas the second notebook is mostly the other data scientist's work.)
+This project aims to help users plan a road trip through California by providing information on optimal routes, nearby attractions, places to eat, and more. It was a collaborative effort between two software engineers and two data scientists. (The first notebook was done by my partner Chris Lewicki, and the second notebook was done by me.)
 
 ## Project Motivator
 We were participants in a competition arranged by TripleTen titled "June 2024 Code Jam". 
